@@ -1,0 +1,9 @@
+# Abstract:
+
+Optimizing water usage in agriculture is crucial for maximizing crop yield while minimizing water wastage. In this project, we leverage semantic segmentation techniques on Indian Space Research Organisation (ISRO) satellite images to develop algorithms aimed at efficient water management in agricultural fields. The project focuses on two main objectives: (1) optimizing water usage for various crops, and (2) identifying water stagnation to facilitate field-level analytics.
+
+The proposed algorithms utilize semantic segmentation to classify pixels in satellite images into different categories such as crops, soil, water bodies, and infrastructure. By accurately delineating these features, the algorithms enable precise assessment of crop health, soil moisture levels, and water distribution patterns. This information is utilized to develop algorithms for optimizing irrigation schedules tailored to specific crop types and environmental conditions, thereby enhancing water use efficiency.
+
+Furthermore, the project addresses the challenge of water stagnation detection using semantic segmentation. By analyzing satellite imagery, the algorithms identify areas prone to water stagnation, which can lead to crop damage and reduced yields. Insights derived from the detection of water stagnation areas enable farmers to implement targeted drainage solutions and optimize field management practices.
+
+The project's outcomes offer significant benefits to agricultural stakeholders, including farmers, agricultural extension services, and policymakers. By harnessing satellite imagery and advanced image processing techniques, our approach empowers farmers with actionable insights for optimizing water usage and improving agricultural productivity. Overall, this project contributes to sustainable agricultural practices and water resource management, aligning with global efforts towards food security and environmental conservation.
